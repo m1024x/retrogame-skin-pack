@@ -22,3 +22,5 @@ This skin pack changes the appearance of GMenu2x that is included in the custom 
 - via usb: copy folders to the rom partition and use commander app to copy them to the skins folder
 - go to Settings > Skin, use left/right to select skin and confirm with start
 - go to Settings > Wallpaper, find the wallpaper you like the most
+
+![Preview of v5.0.0](skin-pack-v5.0.0.jpg)
