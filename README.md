@@ -26,3 +26,7 @@ This skin pack changes the appearance of GMenu2x that is included in the custom 
 
 ### Previews
 ![Preview of v5.0.0](skin-pack-v5.0.0.jpg)
+
+
+### OldBoy icons
+![OldBoy icons](oldboy-icons.png)
