@@ -4,10 +4,16 @@
 
 This skin pack changes the appearance of GMenu2x that is included in the custom firmware for this device. Please update the skins included in the latest CFW with this new version as I keep adding icons for new emulators, games and applications.
 
+### PSNext/PSNextDark
+- inspired by emulation station, based on PS4 skin
+- supports classic GMenu2x design and new GMenuNext design
+- retro and pixelart wallpapers
+
 ### PS4
 - icons and color theme of the current PS4 menu, clean and high-contrast
 - contains settings, application and system icons
 - 10 wallpapers, mostly blue and gray
+- supports GMenuNext design
 
 ### OldBoy
 - Is the next-gen near-4k high-res screen of the RS-97 too sharp for your eyes, too?
@@ -23,8 +29,10 @@ This skin pack changes the appearance of GMenu2x that is included in the custom 
 - go to Settings > Skin, use left/right to select skin and confirm with start
 - go to Settings > Wallpaper, find the wallpaper you like the most
 
+### Previews (GMenuNext)
+![Preview of PSNext skins](skin-pack-psnext.jpg)
 
-### Previews
+### Previews (classic GMenu)
 ![Preview of v5.0.0](skin-pack-v5.0.0.jpg)
 
 
