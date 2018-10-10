@@ -1,8 +1,8 @@
-# GMenu2x skin pack for RetroGame/RS-97
+# GMenu skin pack for RetroGame/RS-97
 
-** Pimp your RS-97 with my latest skins for GMenu2x! **
+** Pimp your RS-97 with my latest skins for GMenu! **
 
-This skin pack changes the appearance of GMenu2x that is included in the custom firmware for this device. Please update the skins included in the latest CFW with this new version as I keep adding icons for new emulators, games and applications. All skins support the old menu style and the new GMenuNext style.
+This skin pack changes the appearance of GMenu that is included in the custom firmware for this device. Please update the skins included in the latest CFW with this new version as I keep adding icons for new emulators, games and applications. All skins support the old menu style and the new GMenuNX/GMenuNext style.
 
 ### Installation
 - remove previous versions from the /skins/ folder (folders PSNext/PSNextDark/PS4/OldBoy/Zelda only)
